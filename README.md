@@ -37,7 +37,7 @@ Make sure you have the following installed:
     ```
 2. Navigate to the project directory:
     ```bash
-    cd fullstack-tutorial
+    cd cosc2769-2024-s2
     ```
 3. Install dependencies for both frontend and backend:
     ```bash
